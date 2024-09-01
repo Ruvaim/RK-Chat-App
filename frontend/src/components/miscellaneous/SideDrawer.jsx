@@ -149,7 +149,7 @@ const SideDrawer = () => {
         </Tooltip>
 
         <Text fontSize="2xl" fontFamily="Work sans">
-          Talk-A-Tive
+          Talkify
         </Text>
         <div>
           <Menu>
